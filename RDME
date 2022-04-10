@@ -1,0 +1,21 @@
+> SMan[SmartManually] <br>
+
+_A new version of "man" program in linux has Smart_
+
+_Feature:_
+>>
+>>1.Functionable(C)
+>>
+>>2.Styleable(CSS)
+>>
+>>3.Updatable(Ajax)
+
+
+_Description:_
+>>
+>>This manually file is like HTML(html+css+javascript+php) file but customized for terminal[Terminal_Mod];
+>>
+>>SMan is a program like "man" so proccess and show "SManually.gz" file;
+
+_Example:_
+>>for "Less" Prgoram => /usr/share/man/man1/less.1.s.gz;
